@@ -1,5 +1,5 @@
 //BASIC PRINTING IN JAVASCRIPT:
-a=10
+/*a=10
 console.log(a)
 console.log("hello !!! welcome rithika.....")
 
@@ -14,7 +14,7 @@ console.log("This variable belongs to let type value:",c)
 const d=100
 console.log("This variable belongs to const type value:",d)
 d=200
-console.log("This variable belongs to const type value:",d)
+console.log("This variable belongs to const type value:",d)*/
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////
 //OPERATORS TYPES :
@@ -48,6 +48,23 @@ console.log(100||20&&0)
 console.log((100||20)&&0)
 console.log((100||20)&&(0))
 console.log(0&&(10||20))
+// Relational operators:
+var aR=10
+var bR=20
+console.log("RELATIONAL operators > o/p :",aR>bR)
+
+console.log(" RELATIONALoperators >= o/p :",aR>=bR)
+
+console.log("RELATIONAL operators < o/p :",aR<bR)
+
+console.log("RELATIONAL operators <= o/p :",aR<=bR)
+
+console.log("RELATIONAL operators == o/p :",aR==bR)
+
+console.log("RELATIONAL operators != o/p :",aR!=bR)
+
+
+
 
 
 
